@@ -1,0 +1,2 @@
+command = "spotify-this-song"
+parameter = "I Want it That Way"
